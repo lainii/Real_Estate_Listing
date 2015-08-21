@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE homes [
+<!ELEMENT homes (location, price, dateOnMarket, numDaysOnMarket,sold,dateSold, shortDescription, imageURL)>
+
+<!ATTLIST id type CDATA #REQUIRED>
+<!ELEMENT location (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT dateOnMarket (#PCDATA)>
+<!ELEMENT numDaysOnMarket (#PCDATA)>
+<!ELEMENT sold (#PCDATA)>
+<!ELEMENT dateSold (#PCDATA)>
+<!ELEMENT shortDescription (#PCDATA)>
+<!ELEMENT imageURL (#PCDATA)>
+]>
+
+<homes>
+	
+	<home id="1000">
+	<location>Falls Church</location>
+	<price>925000</price>
+	<dateOnMarket>11/12/2011</dateOnMarket>
+	<numDaysOnMarket>95</numDaysOnMarket>
+	<sold>No</sold>
+	<dateSold>N/A</dateSold>
+	<shortDescription><![CDATA[Elegant 2 Year Young Stockwell Manor TH with Rear Extens,Gourmet Kitch. with Kitchenaid Appl. Granite Counters,42 in Cabs,Designer Tile, Butler's Pantry,Breakf. Nook. FR with FP and Custom Display Built-ins.ML Hardwd FL, Master Suite with Sitting and MBA with Soak Tub, LL Rec. Rm, FBA and 4th BR or Office. Walk-up stairs to patio and yard bcks to Parkland.1 Yr Home Warr. 100 Energy Star Home. and More]]></shortDescription>
+	<imageURL>http://localhost:8080/1000.jpg</imageURL>
+	</home>
+	
+	<home id="1001">
+	<location>Vienna</location>
+	<price>1249711</price>
+	<dateOnMarket>01/12/2012</dateOnMarket>
+	<numDaysOnMarket>14</numDaysOnMarket>
+	<sold>No</sold>
+	<dateSold>N/A</dateSold>
+	<shortDescription><![CDATA[Beautiful new stone and hardiplank home on perfect, flat lot in fantastic Vienna location. Home features quality at its best; detailed molding, archways, Brazilian cherry floors, wall sconces. Gourmet kitchen w/granite, SS appls, built-in wine rack. Upper lvl has huge Master w/double sided FP & sitting area, 3 more beds w/en-suite BAs. 4th lvl w/5th bed & 5th BA! Finished LL w/addl bed & full BA]]> </shortDescription>
+	<imageURL>http://localhost:8080/1001.jpg</imageURL>
+	</home>
+	
+	<home id="1002">
+	<location>Vienna</location>
+	<price>985000</price>
+	<dateOnMarket>09/05/2011</dateOnMarket>
+	<numDaysOnMarket>82</numDaysOnMarket>
+	<sold>No</sold>
+	<dateSold>N/A</dateSold>
+	<shortDescription><![CDATA[classic colonial in vienna/oakton near metro,i -66-3 full fin levels,over 4100 sq ft-custom mill work,9ft ceilings,marble two story foyer w/palladian window-peaceful flat yard w/extensive landscaping+double deck-expansive fam rm,breakfast rm,and new decorator kit across back and side with wall of windows-master br suite w/large bedrm,sitting rm,many closets and luxury ba w/skylights--madison h s ]]> </shortDescription>
+	<imageURL>http://localhost:8080/1002.jpg</imageURL>
+	</home>
+	
+	<home id="1003">
+	<location>Vienna</location>
+	<price>700000</price>
+	<dateOnMarket>05/05/2011</dateOnMarket>
+	<numDaysOnMarket>190</numDaysOnMarket>
+	<sold>No</sold>
+	<dateSold>N/A</dateSold>
+	<shortDescription><![CDATA[STATELY COLONIAL - CURB APPEAL!! REDUCED TO $700k New Berber Cpt in LL and New ceramic tile inkit. - Reno bathroms, sidewalks - kids walk to E.S. and swim club - McLean HS - Updated kit. w.new oak cabinetry, tweed corian counters and some new appls. Recent siding, recent roof, new tip tilt Anderson windows. New front path and double patio. 5 mins. to Tysons, 11m to Dulles. - Owner invites offers. size 2,824 spft. 3 bed 2.5 bath]]> </shortDescription>
+	<imageURL>http://localhost:8080/1003.jpg</imageURL>
+	</home>
+	
+	<home id="1004">
+	<location>Falls Church</location>
+	<price>824900</price>
+	<dateOnMarket>05/05/2011</dateOnMarket>
+	<numDaysOnMarket>225</numDaysOnMarket>
+	<sold>No</sold>
+	<dateSold>N/A</dateSold>
+	<shortDescription><![CDATA[**NEW HOME**JUST COMPLETED**READY FOR DELIVERY!!! *$15K towards closing for contract by January 31st!! Brick front 6 BR, 4.5 BA home w/sand in place HW floors on Main lvl & upper hall, tile in all BAs, marble in Mstr BA, w/large jacuzzi tub & sep shower, 2 Mstr walk in closets, trey ceilings, finished bsmnt & gourmet kitchen w/SS appls & granite counters open to Family Rm w/FP ]]> </shortDescription>
+	<imageURL>http://localhost:8080/1004.jpg</imageURL>
+	</home>
+	
+		
+	<home id="1005">
+	<location>Falls Church</location>
+	<price>1199000</price>
+	<dateOnMarket>05/05/2011</dateOnMarket>
+	<numDaysOnMarket>118</numDaysOnMarket>
+	<sold>No</sold>
+	<dateSold>N/A</dateSold>
+	<shortDescription><![CDATA[New Construction Arts & Crafts Style Colonial with quality stone and hardiplank exterior. 6 bdrms,5 full baths on 3 finished levels.French country kitchen w/stainless & granite, brkfst room and adjoining family room.Main lvl bdrm/library,living rm & dining rm.Lower level rec rm w/ fireplace,separate media rm,exercise room & walk up to fenced yard & beautiful deck. ]]> </shortDescription>
+	<imageURL>http://localhost:8080/1005.jpg</imageURL>
+	</home>
+	
+	<home id="1006">
+	<location>Reston</location>
+	<price>335000</price>
+	<dateOnMarket>01/05/2012</dateOnMarket>
+	<numDaysOnMarket>88</numDaysOnMarket>
+	<sold>No</sold>
+	<dateSold>N/A</dateSold>
+	<shortDescription><![CDATA[Reston principles of 'Live, Work, Play and Get Involved' can start here: Delightful Modern Residence in the heart of Reston! So Close to all Reston has to offer! Spacious 2BR/2BA with Rare Attached Garage! Upgrades of Granite, Stainless,Hdwds, Tile, and Closet Organizers.Treed View off Balcony. Abundant Commuter Options avail w/Metro Station opening soon! Stone's throw to North Hills Park:Pool/'Tennis ]]> </shortDescription>
+	<imageURL>http://localhost:8080/1006.jpg</imageURL>
+	</home>
+	
+	<home id="1007">
+	<location>Arlington</location>
+	<price>875000</price>
+	<dateOnMarket>01/05/2012</dateOnMarket>
+	<numDaysOnMarket>6</numDaysOnMarket>
+	<sold>No</sold>
+	<dateSold>N/A</dateSold>
+	<shortDescription><![CDATA[Orchestrated to perfection from the climatized wine cellar to the auto-irrigated flower boxes and smart house features, this extraordinary 4 BR/3 BA expanded stone & Hardiplank Cape has been artfully designed for easy living, luxury,comfort and convenience. Well-appointed granite/cherry kitchen with family room; 3 gorgeous marble baths (one with steam shower), stunning vaulted master suite... Virtual tour with interactive floorplan. Near Ballston Metro, shops, restaurants, movies, Kettler Capitals Iceplex and nightlife. ]]> </shortDescription>
+	<imageURL>http://localhost:8080/1007.jpg</imageURL>
+	</home>
+
+</homes>

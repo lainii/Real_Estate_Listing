@@ -1,0 +1,197 @@
+*{
+	font-family:helvetica,verdana,arial,san-serif;
+    font-size:12px;
+    color:#272F32;}
+
+body{
+	background:#272F32;
+	padding:0px;
+	margin:0px;
+}
+a{
+	text-decoration:none;
+}
+
+a:link{
+	color:#ff3d2e;
+}
+a:visited{
+	color:#ff3d2e;
+}
+a:hover{
+	color:#9dbdc6;
+}
+
+h1{
+	color:#9dbdc6;
+	font-weight:bold;
+	font-size:180%;
+}
+
+h2,h2 a{
+font-size:14px;
+color:#ff3d2e;
+
+}
+
+#main {
+	width:860px;
+	height:auto;
+	margin: 0 15%;
+	padding-bottom:100px;
+	background:white;
+		
+	/*border-bottom-right-radius: 8%; */
+	/*-moz-border-radius-bottomright: 8%;*/
+}
+#main_form{
+	width:500px;
+	height:500px;
+	background:white;
+	margin: 0 auto;
+	padding:30px;
+	
+}
+
+#nav {	
+    float:left;
+	padding: 40px 0 0px 25px;
+    width:120px;
+    margin:0px;
+	height:auto;
+	position:fixed;	
+
+}
+#nav li{
+	color:#ff3d2e;
+	list-style:none;
+	font-weight:bold;
+	text-transform:uppercase;
+   
+}
+#nav li a{
+	 font-size:140%;
+}
+
+
+
+/* content starts here
+---------------------------------------------- */
+#container{
+	position:relative;
+	margin-left:25%;
+	width:540px;
+	height:auto;
+}
+
+#header{
+	background-image:url('keywestS.jpg');
+    background-repeat:no-repeat;
+	width:auto;
+	height:300px;
+	padding: 0px;
+
+      
+}
+#search{
+width: auto;
+}
+
+#search_menu{
+	border-width:1px;
+	border-style:solid;
+	border-color:#9dbdc6;
+	background: #9dbdc6;
+	margin-bottom:20px;
+    padding: 10px;  
+}
+
+#sort_menu{
+      float: right;
+	
+}
+#content{
+    position:relative;
+	clear:right;
+	/*padding:15px 35px 0px 0;*/
+display:block;
+min-height: 400px;
+width:100%;
+}
+#content p{
+
+/*text-indent:5%; */
+line-height:120%;
+
+}
+
+.locationH{
+	color:#272F32;
+	font-weight:bold;
+	text-transform:uppercase;
+	font-size:110%;
+
+
+}
+.sold{
+color:#ff3d2e;
+font-weight:bold;
+
+}
+
+.listingBold{
+color: #000;
+font-weight:bold;
+
+font-size:140%;
+}
+.listing{
+	width: auto;
+	height:160px;
+	border-width:1px;
+	border-style:solid;
+	border-color:#ddd;
+	margin-bottom:20px;
+    padding:15px;
+	display:block;
+	float: none;
+	overflow: hidden;
+}
+.listing_title{
+
+	background:#ccc;
+	padding:5px;
+}
+.image{
+	width:150px;
+	height:150px;
+	border-width:1px;
+	border-style:solid;
+	border-color:black;
+	background:url(na.jpg);
+	float:left;	
+}
+.info{
+	
+width:65%;
+	display:block;
+	float: right;
+	
+}
+
+#notValid{
+	color: #ff3d2e;
+}
+
+#footer{
+	clear:left;
+	margin:0px;
+	color:#DAEAEF;
+	/*border-top:1px solid #9DbDc6;*/
+	padding:10px 0;
+	text-align:center;
+
+}
+#footer p{
+	color:#9dbdc6;
+}
